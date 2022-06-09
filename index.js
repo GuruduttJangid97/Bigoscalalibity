@@ -1,3 +1,4 @@
+// Big O notations and scalibity
 const nemo = ['Nemo'];
 const everyone = ['dory','bruce','marlin','nemo','gill','bloat','nigel','squirt','darla','hank'] // Everyone Array
 const large = new Array(1000000).fill('nemo');
