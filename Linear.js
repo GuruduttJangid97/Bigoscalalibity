@@ -8,5 +8,7 @@ function findNemo(array){
         }
     }
 }
-
-findNemo(large); // O(n) ----> Linear Time
+// Linear means if element is increased proportionally operations is increased
+findNemo(nemo); // O(n) ----> O(1) Linear Time
+findNemo(everyone); // O(n) ----> O(10) Linear Time
+findNemo(large); // O(n) ----> O(1000000) Linear Time
