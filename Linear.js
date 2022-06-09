@@ -12,3 +12,16 @@ function findNemo(array){
 findNemo(nemo); // O(n) ----> O(1) Linear Time
 findNemo(everyone); // O(n) ----> O(10) Linear Time
 findNemo(large); // O(n) ----> O(1000000) Linear Time
+
+// ES5
+function compressAllbox(boxes){
+    boxes.forEach(function(itme){
+        console.log(item);
+    });
+}
+
+//ES&
+const compressAllbox = boxes =>{
+    boxes.forEach(box => console.log(box));
+}
+
