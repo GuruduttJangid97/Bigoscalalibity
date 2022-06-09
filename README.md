@@ -1,4 +1,4 @@
-# Bigoscalalibity
+# BigOscalalibity
 
 **O(N) --> Linear Time:** That means whenever element increase operations is also increase or we can say that they are proportional to each other.
 
