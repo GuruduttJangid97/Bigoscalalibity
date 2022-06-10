@@ -6,6 +6,6 @@
 **RuleBook**
 
 Rule1: Worst Case.</br>
-Rule2: Remove Constants.
-Rule3: Different terms for inputs.
+Rule2: Remove Constants.</br>
+Rule3: Different terms for inputs.</br>
 Rule4: Drop Non Dominants.
