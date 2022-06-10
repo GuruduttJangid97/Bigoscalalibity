@@ -16,4 +16,4 @@ function anotherFunChallenge(input) {
     let whoAmI = "I don't know"; // O(1)
   }
 
-  // BIG O(4 + 5n)
+  // BIG O(4 + 5n) If we included function one then it should be 7n instead 5n
