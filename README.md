@@ -5,7 +5,7 @@
 
 **RuleBook**
 
-Rule1: Worst Case.
+Rule1: Worst Case.</br>
 Rule2: Remove Constants.
 Rule3: Different terms for inputs.
 Rule4: Drop Non Dominants.
